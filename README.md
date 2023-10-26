@@ -28,7 +28,8 @@ We employed the following models in this project:
 
 1. Model 1: Convolution Neural Network
 ![Implementation Image 1](Images/Image2.JPG)
-3. Model 2: Activation Function
+
+3.  Activation Function
 ![Implementation Image 1](Images/Image3.JPG)
 
 
