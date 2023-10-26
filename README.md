@@ -1,6 +1,6 @@
 # Binary Classification of Images using Neural Networks
 
-![Project Image](/images/project_image.png)
+![Project Image](/images/image1.jgp)
 
 ## Project Overview
 
