@@ -1,6 +1,6 @@
 # Binary Classification of Images using Neural Networks
 
-![Project Image](Images/test1.JPG)
+![Project Image](Images/test1.jpg)
 
 ## Project Overview
 
@@ -26,8 +26,9 @@ The presented project implements binary classification of images using neural ne
 
 We employed the following models in this project:
 
-1. Model 1: (Images/Image1.JPG)
-2. Model 2: (Images/Image1.JPG)
+1. Model 1:![Implementation Image 1](Images/Image2.JPG)
+2. Model 2:![Implementation Image 1](Images/Image3.JPG)
+
 
 ## Contribution Guidelines
 
