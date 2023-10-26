@@ -20,15 +20,15 @@ The presented project implements binary classification of images using neural ne
 
 ![Implementation Image 1](Images/Image1.JPG)
 
-![Implementation Image 2](/images/implementation2.png)
+![Implementation Image 1](Images/Image4.JPG)
 
 ## Models Used
 
 We employed the following models in this project:
 
-1. Model 1:
+1. Model 1: Convolution Neural Network
 ![Implementation Image 1](Images/Image2.JPG)
-3. Model 2:
+3. Model 2: Activation Function
 ![Implementation Image 1](Images/Image3.JPG)
 
 
