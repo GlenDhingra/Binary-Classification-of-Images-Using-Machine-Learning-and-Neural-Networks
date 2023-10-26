@@ -1,10 +1,12 @@
 # Binary Classification of Images using Neural Networks
 
-![Project Image](Images/test_1.jpg)
 
 ## Project Overview
 
 The presented project implements binary classification of images using neural networks. In this project, a 4-layered Convolutional Neural Network (CNN) model is implemented. The first three layers utilize ReLU activation functions, while the final decisive layer uses a Sigmoid activation function. We perform a total of 2400 iterations for learning.
+
+
+![Project Image](Images/test_1.jpg)
 
 ## Key Features
 
